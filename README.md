@@ -49,3 +49,4 @@ ggok krab
 come back
 ok
 ar
+are
